@@ -1,6 +1,6 @@
 token=NTU1NTE0ODQxNDc0MDA3MDQ5.D2sTUw.vvwSeE92vSFSDY0FpKA9lc2-O3I
 owner= 517844009301835776
-prefix= 1
+prefix= A
 game= Abdellhadi
 stayinchannel=true
 songinstatus=true 
